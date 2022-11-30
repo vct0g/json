@@ -8,7 +8,7 @@
         "brand" : "MontBlanc",
         "yearfound" : 1906,
         "founder" : "Alfred Nehemias",
-        "powers" : [
+        "colors" : [
           "Radiation resistance",
           "Turning tiny",
           "Radiation blast"
@@ -18,7 +18,7 @@
         "brand" : "Pelikan",
         "yearfound" : 1838,
         "founder" : "Carl Hornemann",
-        "powers" : [
+        "colors" : [
           "Million tonne punch",
           "Damage resistance",
           "Superhuman reflexes"
@@ -28,7 +28,7 @@
         "brand" : "Nakaya",
         "yearfound" : 1919,
         "founder" : "Nakata Toshiya",
-        "powers" : [
+        "colors" : [
           "Immortality",
           "Heat Immunity",
           "Inferno",
