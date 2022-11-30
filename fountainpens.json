@@ -9,9 +9,9 @@
         "yearfound" : 1906,
         "founder" : "Alfred Nehemias",
         "models" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
+          "Meisterstück 149 Gold-Coated",
+          "Meisterstück Geometry Solitaire Signature",
+          "Meisterstück 146"
         ]
       },
       {
@@ -19,9 +19,9 @@
         "yearfound" : 1838,
         "founder" : "Carl Hornemann",
         "models" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
+          "M800",
+          "M805 Demenstrator",
+          "M1000"
         ]
       },
       {
@@ -29,12 +29,19 @@
         "yearfound" : 1919,
         "founder" : "Nakata Toshiya",
         "models" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
+          "Piccolo Writer Kikyo",
+          "Dorsal Fin",
+          "Portable"
         ]
-      }
+      },
+      {
+       "brand" : "Nakaya",
+       "yearfound" : 1919,
+       "founder" : "Nakata Toshiya",
+       "models" : [
+         "Piccolo Writer Kikyo",
+         "Dorsal Fin",
+         "Portable"
+       ]
     ]
   }
