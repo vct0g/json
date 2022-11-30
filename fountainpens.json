@@ -6,8 +6,8 @@
     "collection" : [
       {
         "brand" : "MontBlanc",
-        "age" : 29,
-        "secretIdentity" : "Dan Jukes",
+        "yearfound" : 1906,
+        "founder" : "Alfred Nehemias",
         "powers" : [
           "Radiation resistance",
           "Turning tiny",
@@ -15,9 +15,9 @@
         ]
       },
       {
-        "brand" : "Madame Uppercut",
-        "age" : 39,
-        "secretIdentity" : "Jane Wilson",
+        "brand" : "Pelikan",
+        "yearfound" : 1838,
+        "founder" : "Carl Hornemann",
         "powers" : [
           "Million tonne punch",
           "Damage resistance",
@@ -25,9 +25,9 @@
         ]
       },
       {
-        "brand" : "Eternal Flame",
-        "age" : 1000000,
-        "secretIdentity" : "Unknown",
+        "brand" : "Nakaya",
+        "yearfound" : 1919,
+        "founder" : "Nakata Toshiya",
         "powers" : [
           "Immortality",
           "Heat Immunity",
