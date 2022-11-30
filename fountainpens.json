@@ -3,9 +3,9 @@
     "collectorName" : "Michael Z",
     "year" : 2022,
     "active" : true,
-    "members" : [
+    "collection" : [
       {
-        "name" : "Molecule Man",
+        "brand" : "MontBlanc",
         "age" : 29,
         "secretIdentity" : "Dan Jukes",
         "powers" : [
@@ -15,7 +15,7 @@
         ]
       },
       {
-        "name" : "Madame Uppercut",
+        "brand" : "Madame Uppercut",
         "age" : 39,
         "secretIdentity" : "Jane Wilson",
         "powers" : [
@@ -25,7 +25,7 @@
         ]
       },
       {
-        "name" : "Eternal Flame",
+        "brand" : "Eternal Flame",
         "age" : 1000000,
         "secretIdentity" : "Unknown",
         "powers" : [
